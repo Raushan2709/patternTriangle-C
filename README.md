@@ -1,0 +1,1 @@
+# patternTriangle-C
