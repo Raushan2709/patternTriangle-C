@@ -1,4 +1,4 @@
 # patternTriangle-C
 It is a triangular patter printing program
 <br>
-Author - Raushan kumar
+Author - Raushan kumar..
